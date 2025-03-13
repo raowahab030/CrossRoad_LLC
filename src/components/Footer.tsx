@@ -46,7 +46,7 @@ const Footer = () => {
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-accent-light" />
                 <a href="mailto:contact@crossroadlogistics.com" className="text-gray-300 hover:text-accent-light">
-                  contact@crossroadlogistics.com
+                  ethanlogistic874@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
